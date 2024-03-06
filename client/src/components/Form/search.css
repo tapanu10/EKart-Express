@@ -1,0 +1,18 @@
+/* SearchInput.css */
+
+/* Style for the search form container */
+.search-form {
+    margin-right: 20px;
+  }
+  
+  /* Style for the search input field */
+  .form-control {
+    width: 300px;
+    border-radius: 5px;
+  }
+  
+  /* Style for the search button */
+  .btn-outline-success {
+    border-radius: 5px;
+  }
+  

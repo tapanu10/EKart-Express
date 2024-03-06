@@ -1,0 +1,19 @@
+.card {
+    border: 1px solid #ccc; /* Add border to the card */
+    border-radius: 5px; /* Add border radius */
+    padding: 10px; /* Add padding */
+    text-align: center; /* Center-align text */
+  }
+  
+  .cat-btn {
+    background-color: #007bff; /* Set background color for the button */
+    color: #fff; /* Set text color for the button */
+    text-decoration: none; /* Remove underline from the button */
+    padding: 10px 20px; /* Add padding to the button */
+    border-radius: 5px; /* Add border radius */
+    transition: background-color 0.3s; /* Add transition for smooth hover effect */
+  }
+  
+  .cat-btn:hover {
+    background-color: #0056b3; /* Change background color on hover */
+  }

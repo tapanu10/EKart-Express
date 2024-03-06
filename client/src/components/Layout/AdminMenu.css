@@ -1,0 +1,29 @@
+/* AdminMenu.css */
+
+/* Style for the dashboard menu container */
+.dashboard-menu {
+    width: 250px;
+    margin-top: 20px;
+  }
+  
+  /* Style for the heading */
+  .dashboard-menu h4 {
+    margin-bottom: 20px;
+  }
+  
+  /* Style for each menu item */
+  .list-group-item {
+    border-radius: 0;
+  }
+  
+  /* Style for active menu item */
+  .list-group-item.active {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+  /* Style for menu item hover */
+  .list-group-item:hover {
+    background-color: #f8f9fa;
+  }
+  

@@ -1,0 +1,43 @@
+/* Header.css */
+
+.navbar {
+    background-color: #007bff; /* Change this to your desired background color */
+    color: #fff; /* Text color */
+  }
+  
+  .navbar-brand {
+    font-weight: bold;
+  }
+  
+  .navbar-nav .nav-item {
+    margin-right: 10px; /* Adjust the spacing between navigation items */
+  }
+  
+  .nav-link {
+    color: #fff; /* Text color for links */
+  }
+  
+  .nav-link:hover {
+    color: #fff; /* Text color for links on hover */
+  }
+  
+  .dropdown-menu {
+    background-color: #007bff; /* Background color for dropdown menu */
+  }
+  
+  .dropdown-item {
+    color: #fff; /* Text color for dropdown items */
+  }
+  
+  .dropdown-item:hover {
+    background-color: #0056b3; /* Background color for dropdown items on hover */
+  }
+  
+  .cart-badge {
+    background-color: #dc3545; /* Background color for cart badge */
+    color: #fff; /* Text color for cart badge */
+    font-size: 0.8rem; /* Adjust the font size of the badge */
+    padding: 2px 5px; /* Adjust padding of the badge */
+    border-radius: 50%; /* Make the badge circular */
+  }
+  
